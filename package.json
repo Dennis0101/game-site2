@@ -23,5 +23,4 @@
   }
   "dependencies": {
   "firebase-admin": "^11.10.1",
-  ...
 }
