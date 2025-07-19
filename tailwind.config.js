@@ -1,6 +1,11 @@
 module.exports = {
-  content: ["./pages/**/*.{js,jsx}", "./components/**/*.{js,jsx}"],
+  content: [
+    "./pages/**/*.{js,jsx}",
+    "./components/**/*.{js,jsx}"
+  ],
   darkMode: "class",
-  theme: { extend: {} },
+  theme: {
+    extend: {}
+  },
   plugins: []
 }
